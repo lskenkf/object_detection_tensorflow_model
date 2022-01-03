@@ -1,0 +1,38 @@
+<annotation>
+	<folder>black_ball</folder>
+	<filename>Decentraland - Google Chrome 31_12_2021 12_52_21.png</filename>
+	<path>D:\Projects\object_detection\model\ball\black_ball\Decentraland - Google Chrome 31_12_2021 12_52_21.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>506</ymin>
+			<xmax>1029</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>black_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1106</xmin>
+			<ymin>489</ymin>
+			<xmax>1382</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>
